@@ -28,7 +28,7 @@ Bash 4.0+
 Root/sudo access for firewall management
 
 Dependencies
-bash# Fedora/RHEL/CentOS
+# Fedora/RHEL/CentOS
 sudo dnf install libnatpmp iproute firewalld
 
 # Debian/Ubuntu
